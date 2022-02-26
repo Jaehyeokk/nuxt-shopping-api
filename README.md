@@ -19,3 +19,6 @@ https://my-json-server.typicode.com/typicode/demo
 ## Demo
 
 https://my-json-server.typicode.com/Jaehyeokk/nuxt-shopping-api
+
+> [json-server](https://my-json-server.typicode.com/)<br />
+> [json-server-github](https://github.com/typicode/json-server)
